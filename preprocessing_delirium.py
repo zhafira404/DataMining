@@ -1,6 +1,10 @@
 """
 =======================================================================
 DATA MINING - TUGAS PREPROCESSING DATA DELIRIUM
+
+Nama        : Zhafira Sany Lailla H.
+NIM         : 222313446
+Kelas       : 3SI2
 Politeknik Statistika STIS
 =======================================================================
 Tujuan  : Melakukan preprocessing (data cleaning, data reduction,
